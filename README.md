@@ -75,4 +75,6 @@ Always prioritize security when accessing darknet platforms. Employ verified **A
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/scr/manager.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/scr/open.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update:  Wednesday 11 June 2025
+
+
+Update:  06/13/2025 03-25-21 Logo URLs
